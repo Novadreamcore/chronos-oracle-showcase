@@ -6,8 +6,9 @@ CHRONOS ORACLE is an experimental research workbench developed under the **NOVA 
 
 The current documented application checkpoint is:
 
-- **CHRONOS ORACLE:** Alpha 0.3.67
-- **DreamCore:** 0.6.1
+- **CHRONOS ORACLE:** Alpha **0.3.67**
+- **DreamCore:** **0.6.1**
+- **Institute:** **V0.7**
 - **Application type:** integrated desktop research workbench
 - **Source release:** **not public**
 
@@ -15,24 +16,23 @@ The current workbench combines four research surfaces in one application:
 
 `ORACLE / GESPRÄCH | GEDANKEN | DREAMCORE | INSTITUT`
 
-
 ## Interface
 
 ### ORACLE / GESPRÄCH
 
-![CHRONOS ORACLE — ORACLE / GESPRÄCH](media/chronos-oracle.png)
+![CHRONOS ORACLE — ORACLE / GESPRÄCH](media/chronos-oracle.webp)
 
 ### GEDANKEN / ThoughtStream
 
-![CHRONOS ORACLE — GEDANKEN / ThoughtStream](media/thoughtstream.png)
+![CHRONOS ORACLE — GEDANKEN / ThoughtStream](media/thoughtstream.webp)
 
 ### DREAMCORE
 
-![CHRONOS ORACLE — DREAMCORE](media/dreamcore.png)
+![CHRONOS ORACLE — DREAMCORE](media/dreamcore.webp)
 
 ### INSTITUT
 
-![CHRONOS ORACLE — INSTITUT](media/institute.png)
+![CHRONOS ORACLE — INSTITUT](media/institute.webp)
 
 ## What CHRONOS is trying to do
 
