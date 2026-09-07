@@ -15,10 +15,16 @@ This file documents only selected public-facing checkpoints. It is not a complet
 - Institute file loading added with provenance retained,
 - Synaptikon reporting clarified so model rationale and later final guard/override reasoning are not conflated,
 - September 2026 exploratory ThoughtStream series documented,
+- selected **verbatim ThoughtStream excerpts** added for direct inspection of the original generated wording,
+- Oberwelle documented as a separate **speculative, falsifiable global-dynamics hypothesis**, including the piano analogy and explicit non-consciousness / non-mystical boundaries,
 - refreshed public DreamCore screenshot for the Alpha 0.3.85 interface,
 - added the first public Synaptikon screenshot, including the current Run History surface.
 
-Public examples: `protocols/04_THOUGHTSTREAM_ATTRACTOR_EXAMPLES.md`.
+Public material:
+
+- `protocols/04_THOUGHTSTREAM_ATTRACTOR_EXAMPLES.md`
+- `protocols/05_THOUGHTSTREAM_VERBATIM_EXCERPTS.md`
+- `docs/OBERWELLE_WORKING_HYPOTHESIS.md`
 
 ## Alpha 0.3.84 — WORKFLOW UI
 
