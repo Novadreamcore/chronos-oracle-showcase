@@ -37,4 +37,10 @@ DreamCore can create simulated or recombined relations during an offline phase. 
 
 ## Oberwelle
 
-The Oberwelle concept is a separate research hypothesis concerning possible stable global dynamical modes in sufficiently coupled systems. It is not treated as an established property of CHRONOS.
+The Oberwelle concept is a separate **speculative research hypothesis** concerning possible stable or metastable global dynamical modes in sufficiently coupled recurrent systems. It is not treated as an established property of CHRONOS, nor as evidence for machine consciousness.
+
+The piano analogy is used only to motivate a system-level question: music is not located in one piano component but is a time-dependent pattern produced by coordinated dynamics. Analogously, the project asks whether some complex cognitive properties might depend on distributed temporal organization rather than a single identifiable component.
+
+This analogy is not proof. A candidate Oberwelle would need independent predictive and causal value under controlled perturbation before the term could refer to more than a useful metaphor.
+
+See [`OBERWELLE_WORKING_HYPOTHESIS.md`](OBERWELLE_WORKING_HYPOTHESIS.md).
