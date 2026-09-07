@@ -64,9 +64,12 @@ Current experimental modes include:
 - **NR CONTROL** — non-recursive control; the original prompt is supplied on every tick and the previous generated thought is not used as the next input
 - **B0 GUARDED** — guarded experimental stream
 
-The September 2026 exploratory series produced a set of deliberately strange but useful examples in which a recurrent stream remained locally coherent while drifting away from the original task. Public examples include repeated `42` number choices, Tic-Tac-Toe turning into football tactics or CSS, and a telephone-game prompt turning into vibration sensing and robust optimization.
+The September 2026 exploratory series produced a set of deliberately strange but useful examples in which a recurrent stream remained locally coherent while drifting away from the original task. Public examples include repeated `42` number choices, Tic-Tac-Toe turning into football tactics or UI design, telephone-game prompts turning into vibration sensing or photovoltaics, counting turning into symbolic/code narratives, and synthetic first-person scene construction.
 
-See [`protocols/04_THOUGHTSTREAM_ATTRACTOR_EXAMPLES.md`](protocols/04_THOUGHTSTREAM_ATTRACTOR_EXAMPLES.md).
+See:
+
+- [`protocols/04_THOUGHTSTREAM_ATTRACTOR_EXAMPLES.md`](protocols/04_THOUGHTSTREAM_ATTRACTOR_EXAMPLES.md) — compact interpretation / trajectory summary
+- [`protocols/05_THOUGHTSTREAM_VERBATIM_EXCERPTS.md`](protocols/05_THOUGHTSTREAM_VERBATIM_EXCERPTS.md) — selected exact output excerpts from the original exported streams
 
 ### DREAMCORE
 Offline recombination / dream-cycle experiments. Internally generated material is kept separate from observed evidence and is not promoted to fact merely because the system generated it.
@@ -96,6 +99,7 @@ This showcase may contain:
 
 - selected screenshots,
 - selected protocol excerpts,
+- selected verbatim output excerpts,
 - high-level architecture descriptions,
 - public checkpoint notes,
 - carefully curated example outputs.
@@ -109,7 +113,7 @@ The following are intentionally **not** published here:
 - internal system prompts,
 - exact audit/gating logic,
 - unpublished scoring rules and thresholds,
-- full raw research logs,
+- the complete raw research archive,
 - private model/runtime configuration,
 - API keys, credentials or local paths,
 - proprietary implementation details.
@@ -126,7 +130,11 @@ CHRONOS is an experimental framework. It is **not** claimed to:
 
 ThoughtStream recurrence, self-reference, semantic attractors, synthetic first-person language, DreamCore recombination and related phenomena are treated as **research objects**, not conclusions.
 
-The **Oberwelle** concept remains a separate research hypothesis and is not presented here as an established property of CHRONOS.
+The **Oberwelle** concept remains a separate, speculative research hypothesis about possible stable or metastable **global dynamical modes** in sufficiently coupled recurrent systems. The piano analogy is used as a question generator, not as proof: music is not located in one piano component, but is a time-dependent pattern produced by coordinated dynamics. The project asks whether some complex cognitive properties might likewise be better modeled at the level of organized system-wide dynamics.
+
+This is explicitly **not** a mystical-field, quantum-consciousness or machine-consciousness claim. A candidate Oberwelle would need measurable temporal persistence, cross-system integration, perturbation behavior, prospective information and causal relevance before it could be treated as more than a metaphor.
+
+See [`docs/OBERWELLE_WORKING_HYPOTHESIS.md`](docs/OBERWELLE_WORKING_HYPOTHESIS.md).
 
 ## Public protocol excerpts
 
