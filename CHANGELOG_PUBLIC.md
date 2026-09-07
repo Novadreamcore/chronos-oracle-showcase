@@ -14,7 +14,9 @@ This file documents only selected public-facing checkpoints. It is not a complet
 - RCMS LIVE activity visualization added,
 - Institute file loading added with provenance retained,
 - Synaptikon reporting clarified so model rationale and later final guard/override reasoning are not conflated,
-- September 2026 exploratory ThoughtStream series documented.
+- September 2026 exploratory ThoughtStream series documented,
+- refreshed public DreamCore screenshot for the Alpha 0.3.85 interface,
+- added the first public Synaptikon screenshot, including the current Run History surface.
 
 Public examples: `protocols/04_THOUGHTSTREAM_ATTRACTOR_EXAMPLES.md`.
 

@@ -34,7 +34,11 @@ The current workbench combines five research surfaces plus workflow history:
 
 ![CHRONOS ORACLE — INSTITUT](media/institute.webp)
 
-> The public screenshots currently show the earlier four-surface layout. Synaptikon and the current Run History workflow are documented here but do not yet have a refreshed public screenshot set.
+### SYNAPTIKON
+
+![CHRONOS ORACLE — SYNAPTIKON](media/synaptikon.webp)
+
+> DreamCore and Synaptikon now show the Alpha 0.3.85 interface generation, including the current Run History surface. Some other public screenshots may still reflect an earlier capture set.
 
 ## What CHRONOS is trying to do
 
